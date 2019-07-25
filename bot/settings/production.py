@@ -5,7 +5,7 @@ import os
 BASE_PATH = os.path.dirname(os.path.dirname(__file__))
 
 
-TG_TOKEN = "900637102:AAGzayuZAOQtL3rQZ1Y2GdX8wqhWSago6t4"
+TG_TOKEN = "856141114:AAEYIfkxHf3f0Z9RlJjJwpT8fweoUu5m4GU"
 
 # На сервере не используем прокси-URL
 TG_API_URL = None
